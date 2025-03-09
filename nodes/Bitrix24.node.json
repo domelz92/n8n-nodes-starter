@@ -1,0 +1,21 @@
+{
+    "node": "n8n-nodes-base.bitrix24",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": [
+      "CRM",
+      "Business Tools"
+    ],
+    "resources": {
+      "credentialDocumentation": [
+        {
+          "url": "https://training.bitrix24.com/rest_help/oauth/app_authentication.php"
+        }
+      ],
+      "primaryDocumentation": [
+        {
+          "url": "https://training.bitrix24.com/rest_help/"
+        }
+      ]
+    }
+  }
